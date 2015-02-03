@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "nik.lele@gmail.com",
+    "longName": "PebblePose",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "PebblePose",
+    "uuid": "6af4895e-4ff9-49ca-91aa-becb8f96486a",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
