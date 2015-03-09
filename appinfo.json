@@ -1,5 +1,14 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "KEY_DATA_TIME": 10,
+        "KEY_DATA_VIBRATE": 14,
+        "KEY_DATA_X": 11,
+        "KEY_DATA_Y": 12,
+        "KEY_DATA_Z": 13,
+        "KEY_JS_STATUS": 22,
+        "KEY_PB_COMMAND": 20,
+        "KEY_PB_DATA": 21
+    },
     "capabilities": [
         ""
     ],
@@ -9,6 +18,7 @@
     "resources": {
         "media": []
     },
+    "sdkVersion": "2",
     "shortName": "PebblePose",
     "uuid": "6af4895e-4ff9-49ca-91aa-becb8f96486a",
     "versionCode": 1,
